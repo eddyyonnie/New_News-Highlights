@@ -55,7 +55,7 @@ Eddy Yonnie
 
 ## Description
 
-* 
+* A project based overcoming the problem of regular news brodcast that at times leaves occupied individuals unaware of current affairs and eventually get frustrated.The application acctually offers a platform for news reviews as news sources are also available.
 
 ## Behavior driven developement
 | Behaviour- should display   | Input Example-what it receives|output Example-should return| 
