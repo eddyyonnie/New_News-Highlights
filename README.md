@@ -46,7 +46,16 @@ from here -->
 
 # Password-Locker
 ## Authors
+
 Eddy Yonnie 
+
+## Date 
+
+12-04-2019
+
+## Description
+
+* 
 
 ## Behavior driven developement
 | Behaviour- should display   | Input Example-what it receives|output Example-should return| 
@@ -56,31 +65,24 @@ Eddy Yonnie
 | save                        | select save                   | password saved             |
 |  delete                     | select delete                 | password deleted           |
 
-## Description
-* The app actually allows a user to create a credential account as well as delete while inputting the name and password for the new account.Options of logging out are also available with a  assuarance that the credential account is well secured.
+
 
 ## Setup/Installation Requirements
-Open your browser.
-Load gitHub on your browser.
-Search for eddyyonnie/github.io/ repository name.
-Fork the data onto your own personal repository.
-Clone project
-run 'ng install' on terminal
-run 'ng serve' on terminal
-To access the live website, click on this url https://eddyyonnie.github.io/jQuery-first
-Known Bugs
-No Bugs
+* Open your browser.
+* Load gitHub on your browser.
+* Search for eddyyonnie/github.io/ repository name.
+* Fork the data onto your own personal repository.
+* Clone project
+* To access the live website, click on this url https://eddyyonnie.github.io/New_News-Highlights
+
+# Known Bugs
+* No Bugs
 
 
 ## Technologies Used
 * Python-Imported every required imports using Python language.
 * css-Took care of the page styling to look legitimate.
 * Js-Project functionality depicted and affirmed by JavaScript computer language.
-
-## Setup instructions
-    
-   * 1. Navigate through terminal and enter details required.
-  *  2. click enter to retrieve results.  
 
 ## CONTACTS
  * eddyyonnie@gmail.com
