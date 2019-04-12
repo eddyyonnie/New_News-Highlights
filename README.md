@@ -44,8 +44,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 from here 
 from here -->
 
-# Password-Locker
-## Authors
+# New_News-Highlights
+## Author
 
 Eddy Yonnie 
 
@@ -58,12 +58,13 @@ Eddy Yonnie
 * A project based overcoming the problem of regular news brodcast that at times leaves occupied individuals unaware of current affairs and eventually get frustrated.The application acctually offers a platform for news reviews as news sources are also available.
 
 ## Behavior driven developement
-| Behaviour- should display   | Input Example-what it receives|output Example-should return| 
-| :---------------------------| :--------------------------   |:-------------------------- |
-| username required           | input username                | username dispalayed        |
-| passwordrequired            |  input password               | password displayed         |   
-| save                        | select save                   | password saved             |
-|  delete                     | select delete                 | password deleted           |
+| Behavior            | Input                         | Output                        | 
+| ------------------- | ----------------------------- | ----------------------------- |
+| View Business sources | Click on the `BUSINESS` button | Scrolls the page to the `BUSINESS` section |
+| View Entertainment sources | Click on the `ENTERTAINMENT` button | Scrolls the page to the `ENTERTAINMENT` section |
+| View Sports sources | Click on the `SPORTS` button | Scrolls the page to the `SPORTS` section |
+| View Top Headlines Articles | Click on the `Top Headlines` button | Redirects to a page that displays articles on Top Headlines |
+| View Articles on Everything | Click on the `Everything` button | Redirects to a page that displays All articles |
 
 
 
